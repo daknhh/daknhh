@@ -2,9 +2,11 @@
 
 Cloud enthusiast, focusing on building solutions on AWS. As the cloud evolves every day, I continue to educate myself.
 I am a strong believer in continuing education and love to learn every day something new. My specialties are Cloud Automation, Infrastructure as Code, Continuous Delivery, Microservices and Cloud Security on 🧡 AWS 🧡
-I am currently working for globaldatanet.👋
+I am currently working for globaldatanet.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daknhh)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **daknhh/daknhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daknhh)](https://github.com/anuraghazra/github-readme-stats)
+
