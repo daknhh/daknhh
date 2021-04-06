@@ -6,13 +6,13 @@ I am currently working for globaldatanet.
 
 
 <a href="https://twitter.com/DAKNHH">
-  <img align="left" alt="David | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="David | Twitter" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/daknhh/">
-  <img align="left" alt="David | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+  <img align="left" alt="David | Linkedin" width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
 <a href="https://aws.amazon.com/partners/ambassadors/?cards-body.sort-by=item.additionalFields.ambassadorName&cards-body.sort-order=asc&cards-body.q=david%2Bkrohn&cards-body.q_operator=AND">
-  <img align="left" alt="David | AWS " width="21px" src="http://d3gih7jbfe3jlq.cloudfront.net/AWS-Podcast-Title-Art.jpg" />
+  <img align="left" alt="David | AWS " width="40px" src="http://www.4fo.de/wp-content/uploads/2017/05/AWS-Logo1260-01.png" />
 </a>
 
 
