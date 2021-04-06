@@ -14,6 +14,8 @@ I am currently working for globaldatanet.
 
 
 <br />
+<br /><br />
+<br />
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daknhh&show_icons=true&theme=blueberry)
 
