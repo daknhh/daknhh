@@ -8,7 +8,7 @@ I am currently working for globaldatanet.
   <img align="left" alt="David | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/daknhh/">
-  <img align="left" alt="David | Linkedin" width="21px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg" />
+  <img align="left" alt="David | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
 
 
