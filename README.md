@@ -6,10 +6,8 @@ I am currently working for globaldatanet.
 
 
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daknhh&show_icons=true)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daknhh&show_icons=true&theme=blueberry)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daknhh&layout=compact&theme=blueberry)
 
 <!--
 **daknhh/daknhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
