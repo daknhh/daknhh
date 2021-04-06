@@ -1,8 +1,8 @@
 ### Hi there I am David - APN Ambassador / AWS Community Builder
 
 Cloud enthusiast, focusing on building solutions on AWS. As the cloud evolves every day, I continue to educate myself.
-I am a strong believer in continuing education and love to learn every day something new. My specialties are Cloud Automation, Infrastructure as Code, Continuous Delivery, Microservices and Cloud Security on 🧡 AWS 🧡
-I am currently working for globaldatanet.
+I am a strong believer in continuing education and love to learn every day something new. My specialties are Cloud Automation, Infrastructure as Code, Continuous Delivery, Microservices and Cloud Security on 🧡 AWS. <br />
+I am currently working for [globaldatanet](https://globaldatanet.com).
 
 
 <a href="https://aws.amazon.com/partners/ambassadors/?cards-body.sort-by=item.additionalFields.ambassadorName&cards-body.sort-order=asc&cards-body.q=david%2Bkrohn&cards-body.q_operator=AND" target="_blank">
