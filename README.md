@@ -7,16 +7,13 @@ I am currently working for globaldatanet.
 
 
 <a href="https://www.linkedin.com/in/daknhh/" target="_blank">
-  <img align="left" alt="David | Linkedin" width="40px" src="https://github.com/daknhh/daknhh/blob/main/static/linkedin.png" />
+  <img align="left" alt="David | Linkedin" width="55px" src="https://github.com/daknhh/daknhh/blob/main/static/linkedin.png" />
 </a>
 <a href="https://aws.amazon.com/partners/ambassadors/?cards-body.sort-by=item.additionalFields.ambassadorName&cards-body.sort-order=asc&cards-body.q=david%2Bkrohn&cards-body.q_operator=AND" target="_blank">
-  <img align="left" alt="David | AWS " width="40px" src="https://github.com/daknhh/daknhh/blob/main/static/community-builders.png" />
+  <img align="left" alt="David | AWS " width="60px" src="https://github.com/daknhh/daknhh/blob/main/static/community-builders.png" />
 </a>
 <a href="https://dev.to/daknhh" target="_blank">
-  <img align="left" alt="David | AWS " width="40px" src="https://github.com/daknhh/daknhh/blob/main/static/devto.webp" />
-</a>
-<a href="https://twitter.com/DAKNHH" target="_blank">
-  <img align="left" alt="David | Twitter" width="40px" src="https://github.com/daknhh/daknhh/blob/main/static/twitter.png" />
+  <img align="left" alt="David | Blog " width="60px" src="https://github.com/daknhh/daknhh/blob/main/static/devto.webp" />
 </a>
 
 
