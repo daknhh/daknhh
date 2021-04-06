@@ -14,6 +14,11 @@ I am currently working for globaldatanet.
 <a href="https://aws.amazon.com/partners/ambassadors/?cards-body.sort-by=item.additionalFields.ambassadorName&cards-body.sort-order=asc&cards-body.q=david%2Bkrohn&cards-body.q_operator=AND" target="_blank">
   <img align="left" alt="David | AWS " width="40px" src="https://tse2.mm.bing.net/th?id=OIP.TbSXn2jIKNB-Nenc3_obiwHaHa&pid=Api" />
 </a>
+<a href="https://dev.to/daknhh" target="_blank">
+  <img align="left" alt="David | AWS " width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" />
+</a>
+
+
 
 
 
