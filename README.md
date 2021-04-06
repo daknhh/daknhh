@@ -7,7 +7,7 @@ I am currently working for globaldatanet.
 
 
 <a href="https://www.linkedin.com/in/daknhh/" target="_blank">
-  <img align="left" alt="David | Linkedin" width="58px" src="https://github.com/daknhh/daknhh/blob/main/static/linkedin.png" />
+  <img align="left" alt="David | Linkedin" width="59px" src="https://github.com/daknhh/daknhh/blob/main/static/linkedin.png" />
 </a>
 <a href="https://aws.amazon.com/partners/ambassadors/?cards-body.sort-by=item.additionalFields.ambassadorName&cards-body.sort-order=asc&cards-body.q=david%2Bkrohn&cards-body.q_operator=AND" target="_blank">
   <img align="left" alt="David | AWS " width="60px" src="https://github.com/daknhh/daknhh/blob/main/static/community-builders.png" />
