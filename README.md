@@ -5,15 +5,12 @@ I am a strong believer in continuing education and love to learn every day somet
 I am currently working for globaldatanet.
 
 
-## Follow me:
-
 <a href="https://twitter.com/DAKNHH">
   <img align="left" alt="David | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/daknhh/">
   <img align="left" alt="David | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
-
 
 
 <br />
