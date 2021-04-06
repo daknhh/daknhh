@@ -12,7 +12,7 @@ I am currently working for globaldatanet.
   <img align="left" alt="David | Linkedin" width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
 <a href="https://aws.amazon.com/partners/ambassadors/?cards-body.sort-by=item.additionalFields.ambassadorName&cards-body.sort-order=asc&cards-body.q=david%2Bkrohn&cards-body.q_operator=AND">
-  <img align="left" alt="David | AWS " width="40px" src="http://www.4fo.de/wp-content/uploads/2017/05/AWS-Logo1260-01.png" />
+  <img align="left" alt="David | AWS " width="40px" src="https://tse2.mm.bing.net/th?id=OIP.TbSXn2jIKNB-Nenc3_obiwHaHa&pid=Api" />
 </a>
 
 
