@@ -18,6 +18,9 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 
 
 
+<div class="github-card" data-github="daknhh" data-width="400" data-height="317" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 
 <br />
 <br /><br />
