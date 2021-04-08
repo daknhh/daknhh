@@ -6,20 +6,16 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 
 
 <a href="https://aws.amazon.com/partners/ambassadors/?cards-body.sort-by=item.additionalFields.ambassadorName&cards-body.sort-order=asc&cards-body.q=david%2Bkrohn&cards-body.q_operator=AND" target="_blank">
-  <img align="left" alt="David | AWS " width="60px" src="https://github.com/daknhh/daknhh/blob/main/static/community-builders.png" />
+  <img align="left" alt="David | AWS " width="20px" src="https://github.com/daknhh/daknhh/blob/main/static/community-builders.png" />
 </a>
 <a href="https://www.linkedin.com/in/daknhh/" target="_blank">
-  <img align="left" alt="David | Linkedin" width="59px" src="https://github.com/daknhh/daknhh/blob/main/static/linkedin.png" />
+  <img align="left" alt="David | Linkedin" width="20px" src="https://github.com/daknhh/daknhh/blob/main/static/linkedin.png" />
 </a>
 
 <a href="https://dev.to/daknhh" target="_blank">
-  <img align="left" alt="David | Blog " width="60px" src="https://github.com/daknhh/daknhh/blob/main/static/devto.webp" />
+  <img align="left" alt="David | Blog " width="20px" src="https://github.com/daknhh/daknhh/blob/main/static/devto.webp" />
 </a>
 
-
-
-<div class="github-card" data-github="daknhh" data-width="400" data-height="317" data-theme="medium"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 
 <br />
