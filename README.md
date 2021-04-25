@@ -4,22 +4,13 @@ Cloud enthusiast, focusing on building solutions on AWS. As the cloud evolves ev
 I am a strong believer in continuing education and love to learn every day something new. My specialties are Cloud Automation, Infrastructure as Code, Continuous Delivery, Microservices and Cloud Security on 🧡 AWS. <br />
 I am currently working for <a href="https://globaldatanet.com" target="_blank" ><font color='#00ecbd'>globaldatanet</font></a>.
 
+Get in touch:
 
+- [ℹ️ Linkedin](https://www.linkedin.com/in/daknhh/)
+- [👨🏻‍💻dev.to](https://dev.to/daknhh)
+- [⌣ aws](https://aws.amazon.com/partners/ambassadors/?cards-body.sort-by=item.additionalFields.ambassadorName&cards-body.sort-order=asc&cards-body.q=david%2Bkrohn&cards-body.q_operator=AND)
+- [🗓 calendly](https://calendly.com/dakn)
 
-<a href="https://www.linkedin.com/in/daknhh/" target="_blank">
-  <img align="left" alt="David | Linkedin" width="45px" src="https://github.com/daknhh/daknhh/blob/main/static/linkedin.png" />
-</a>
-
-<a href="https://dev.to/daknhh" target="_blank">
-  <img align="left" alt="David | Blog " width="45px" src="https://github.com/daknhh/daknhh/blob/main/static/devto.webp" />
-</a>
-
-<a href="https://aws.amazon.com/partners/ambassadors/?cards-body.sort-by=item.additionalFields.ambassadorName&cards-body.sort-order=asc&cards-body.q=david%2Bkrohn&cards-body.q_operator=AND" target="_blank">
-  <img align="left" alt="David | AWS " width="45px" src="https://github.com/daknhh/daknhh/blob/main/static/community-builders.png" />
-</a>
-
-<br />
-<br /><br />
 <br />
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daknhh&show_icons=true&theme=blueberry)
