@@ -4,7 +4,7 @@ Cloud enthusiast, focusing on building solutions on AWS. As the cloud evolves ev
 I am a strong believer in continuing education and love to learn every day something new. My specialties are Cloud Automation, Infrastructure as Code, Continuous Delivery, Microservices and Cloud Security on 🧡 AWS. <br />
 I am currently working for <a href="https://globaldatanet.com" target="_blank" ><font color='#00ecbd'>globaldatanet</font></a>.
 
-Get in touch:
+💬 Get in touch:
 
 - [ℹ️ Linkedin](https://www.linkedin.com/in/daknhh/)
 - [👨🏻‍💻dev.to](https://dev.to/daknhh)
