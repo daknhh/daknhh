@@ -6,10 +6,10 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 
 💬 Get in touch:
 
-- [ℹ️ Linkedin](https://www.linkedin.com/in/daknhh/)
-- [👨🏻‍💻dev.to](https://dev.to/daknhh)
-- [⌣ aws](https://aws.amazon.com/partners/ambassadors/?cards-body.sort-by=item.additionalFields.ambassadorName&cards-body.sort-order=asc&cards-body.q=david%2Bkrohn&cards-body.q_operator=AND)
-- [🗓 calendly](https://calendly.com/dakn)
+- [ℹ️  Linkedin](https://www.linkedin.com/in/daknhh/)
+- [👨🏻‍💻 dev.to](https://dev.to/daknhh)
+- [⌣  aws](https://aws.amazon.com/partners/ambassadors/?cards-body.sort-by=item.additionalFields.ambassadorName&cards-body.sort-order=asc&cards-body.q=david%2Bkrohn&cards-body.q_operator=AND)
+- [🗓  calendly](https://calendly.com/dakn)
 
 <br />
 
