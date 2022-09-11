@@ -52,9 +52,9 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 
 ### 📖 Blog
 
-<!--START_SECTION:myblog-->
+<!--START_SECTION:feed-->
 ...
-<!--END_SECTION:myblog-->
+<!--END_SECTION:feed-->
 
 
 ### 📈  Stats
