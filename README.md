@@ -47,7 +47,7 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
   </tbody>
 </table>
 
-### 📖 Blog
+### 📖 Explore my latest blog posts:
 
 <!--START_SECTION:feed-->
 ...
