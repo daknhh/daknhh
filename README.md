@@ -50,7 +50,11 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 ### 📖 Explore my latest blog posts:
 
 <!--START_SECTION:feed-->
-...
+* [Serverless querying and evaluating of Logs using Athena](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;serverless-querying-and-evaluating-of-logs-using-athena-13ea)
+* [CDK Best Practices](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;cdk-best-practices-305e)
+* [Optimize your workloads for Sustainability](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;optimize-your-workloads-for-sustainability-5c9m)
+* [OWASP TOP 10 mapped to AWS Managed Rules](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;owasp-top-10-mapped-to-aws-managed-rules-5h78)
+* [Introducing the AWS Firewall Factory](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;introducing-the-aws-firewall-factory-1155)
 <!--END_SECTION:feed-->
 
 
