@@ -51,6 +51,7 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 </table>
 
 <h3>📖 Blog</h3>
+
 <!--START_SECTION:blog-->
 
 <!--END_SECTION:blog-->
