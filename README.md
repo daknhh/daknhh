@@ -53,7 +53,7 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 <h3>📖 Blog</h3>
 
 <!--START_SECTION:blog-->
-
+...
 <!--END_SECTION:blog-->
 
 <h3>📈  Stats</h3>
