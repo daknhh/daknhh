@@ -50,6 +50,11 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
   </tbody>
 </table>
 
+<h3>📖 Blog</h3>
+<!--START_SECTION:blog-->
+
+<!--END_SECTION:blog-->
+
 <h3>📈  Stats</h3>
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daknhh&show_icons=true&theme=blueberry)
