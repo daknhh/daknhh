@@ -41,6 +41,12 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
       <td><img alt="Issues" src="https://img.shields.io/github/issues/daknhh/aws-orgtool?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/daknhh/aws-orgtool?style=flat-square&labelColor=343b41"/></td>
     </tr>
+	  <tr>
+      <td><a href="https://github.com/daknhh/rightsizing-recommendation"><b>Rightsizing Recommendation </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/daknhh/rightsizing-recommendation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/daknhh/rightsizing-recommendation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/daknhh/rightsizing-recommendation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/daknhh/rightsizing-recommendation?style=flat-square&labelColor=343b41"/></td>
   </tbody>
 </table>
 
