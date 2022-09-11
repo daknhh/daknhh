@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://dakn.ml/index.xml
+          feed-url: https://dev.to/feed/daknhh
           readme-section: myblog
           branch: main
           path: profile/README.md
-          max: 3
+          max: 5
