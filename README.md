@@ -52,12 +52,12 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 
 ### 📖 Blog
 
-<!--START_SECTION:blog-->
+<!--START_SECTION:myblog-->
 ...
-<!--END_SECTION:blog-->
+<!--END_SECTION:myblog-->
 
 
-<h3>📈  Stats</h3>
+### 📈  Stats
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daknhh&show_icons=true&theme=blueberry)
 
