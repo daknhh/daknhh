@@ -1,13 +1,12 @@
 
 ### 👋🏻 Hi there I am David - APN Ambassador / AWS Community Builder 
 
-<img src="https://github.com/daknhh/daknhh/blob/main/static/david_1.png" width="200">
-								       
 Cloud enthusiast, focusing on building solutions on AWS. As the cloud evolves every day, I continue to educate myself.
 I am a strong believer in continuing education and love to learn every day something new. My specialties are Cloud Automation, Infrastructure as Code, Continuous Delivery, Microservices and Cloud Security on 🧡 AWS. <br />
 I am currently working for <a href="https://globaldatanet.com" target="_blank" ><font color='#00ecbd'>globaldatanet</font></a>.
 
 
+								       
 <h3>💬  Get in touch with me</h3>
 <p align="left">
 <a href="https://dev.to/daknhh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="daknhh" height="30" width="40" /></a>
@@ -16,7 +15,7 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 
 <br />
 
-<h3>Open source projects</h3>
+<h3>👨🏻‍💻  Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -45,7 +44,7 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
   </tbody>
 </table>
 
-<h3>My Github stats</h3>
+<h3>📈  Stats</h3>
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daknhh&show_icons=true&theme=blueberry)
 
