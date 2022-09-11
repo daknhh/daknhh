@@ -15,7 +15,7 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://dakn.ml/index.xml
-          readme-section: blog
+          readme-section: myblog
           branch: main
           path: profile/README.md
-          max: 5
+          max: 3
