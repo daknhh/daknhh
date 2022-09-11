@@ -4,7 +4,7 @@
   <thead align="center">
 	    <tr border="0" cellspacing="0" cellpadding="0">
       <td>
-    <img src="https://github.com/daknhh/daknhh/blob/main/static/david_1.jpg"  height="150" width="150" alt="Avatar" style="border-radius:50%"></td>
+    <img src="https://github.com/daknhh/daknhh/blob/main/static/david_1.jpg"  height="auto" width="150" alt="Avatar" style="border-radius:50%"/> </td>
       <td> <p align="left">Cloud enthusiast, focusing on building solutions on AWS. As the cloud evolves every day, I continue to educate myself.
 I am a strong believer in continuing education and love to learn every day something new. My specialties are Cloud Automation, Infrastructure as Code, Continuous Delivery, Microservices and Cloud Security on 🧡 AWS. <br />
 I am currently working for <a href="https://globaldatanet.com" target="_blank" ><font color='#00ecbd'>globaldatanet</font></a></p>.</td>
