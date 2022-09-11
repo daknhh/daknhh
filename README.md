@@ -43,6 +43,7 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 </table>
 
 <h3>My Github stats</h3>
+
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daknhh&show_icons=true&theme=blueberry)
 
 <!--
