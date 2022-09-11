@@ -1,4 +1,3 @@
-
 ### 👋🏻 Hi there I am David - APN Ambassador / AWS Community Builder 
 
 Cloud enthusiast, focusing on building solutions on AWS. As the cloud evolves every day, I continue to educate myself.
