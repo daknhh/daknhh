@@ -12,7 +12,7 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 
 <br />
 
-<h3>👨🏻‍💻  Open source projects</h3>
+<h3>👨🏻‍💻  My Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
