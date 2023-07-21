@@ -64,11 +64,11 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 ### 📖 Explore my latest blog posts:
 
 <!--START_SECTION:feed-->
+* [Deploying CloudFormation StackSets with AWS CDK](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;deploying-cloudformation-stacksets-with-aws-cdk-16f2)
 * [Enterprise-scaled Self-Healing StackSets](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;enterprise-scaled-self-healing-stacksets-4ff5)
 * [Serverless querying and evaluating of Logs using Athena Part 2](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;serverless-querying-and-evaluating-of-logs-using-athena-part-2-3ip3)
 * [AWS IAM Identity Center Permission Management at Scale - Part 2](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;aws-iam-identity-center-permission-management-at-scale-part-2-17e4)
 * [Automating AWS IAM Identity Center Setup Part 1](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;automating-aws-iam-identity-center-setup-part-1-4m81)
-* [Serverless querying and evaluating of Logs using Athena](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;serverless-querying-and-evaluating-of-logs-using-athena-13ea)
 <!--END_SECTION:feed-->
 
 
