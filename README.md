@@ -59,7 +59,7 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kirnberger1980/sso-setup-automation?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	    	  <tr>
-      <td><a href="https://github.com/daknhh/AwsIdentitySight"><b>aws sso setup automation</b></a></td>
+      <td><a href="https://github.com/daknhh/AwsIdentitySight"><b>AwsIdentitySight</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/daknhh/AwsIdentitySight?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/daknhh/AwsIdentitySight?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/daknhh/AwsIdentitySight?style=flat-square&labelColor=343b41"/></td>
