@@ -71,11 +71,11 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 ### 📖 Explore my latest blog posts:
 
 <!--START_SECTION:feed-->
+* [Enhancing Your AWS CDK Projects with Testing](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;enhancing-your-aws-cdk-projects-with-testing-1ged)
 * [Security as the foundation of digital sovereignty](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;security-as-the-foundation-of-digital-sovereignty-10cp)
 * [Confidence in the cloud with data sovereignty](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;confidence-in-the-cloud-with-data-sovereignty-1p6a)
 * [AWS IAM Identity Center Permission Management at Scale Part 3](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;aws-iam-identity-center-permission-management-at-scale-part-3-21hn)
 * [AI TRiSM - Building trust in artificial intelligence](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;ai-trism-building-trust-in-artificial-intelligence-287a)
-* [Ensuring Compliance with Custom AWS Config Rules](https:&#x2F;&#x2F;dev.to&#x2F;aws-builders&#x2F;ensuring-compliance-with-custom-aws-config-rules-1bo9)
 <!--END_SECTION:feed-->
 
 
