@@ -24,6 +24,15 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
     </tr>
   </thead>
   <tbody>
+
+	  
+	  	  <tr>
+      <td><a href="https://github.com/daknhh/iam-autoremediation"><b>IAM Autoremediation</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/daknhh/iam-autoremediation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/daknhh/iam-autoremediation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/daknhh/iam-autoremediation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/daknhh/iam-autoremediation?style=flat-square&labelColor=343b41"/></td>
+    </tr>
 	  <tr>
       <td><a href="https://github.com/globaldatanet/aws-firewall-factory"><b>AWS Firewall Factory</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/globaldatanet/aws-firewall-factory?style=flat-square&labelColor=343b41"/></td>
