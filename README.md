@@ -78,11 +78,11 @@ I am currently working for <a href="https://globaldatanet.com" target="_blank" >
 ### 📖 Explore my latest blog posts:
 
 <!--START_SECTION:feed-->
+* [OWASP Top 10 (2025) and AWS WAF: Putting Managed Rules in Context](https://dev.to/aws-builders/owasp-top-10-2025-and-aws-waf-putting-managed-rules-in-context-586c)
 * [IAM Auto-Remediation: Enforcing Least Privilege Automatically](https://dev.to/aws-builders/iam-auto-remediation-enforcing-least-privilege-automatically-2af7)
 * [Securing Digital Sovereignty for regulated Industries](https://dev.to/aws-builders/securing-digital-sovereignty-for-regulated-industries-3ipb)
 * [Enhancing Your AWS CDK Projects with Testing](https://dev.to/aws-builders/enhancing-your-aws-cdk-projects-with-testing-1ged)
 * [Security as the foundation of digital sovereignty](https://dev.to/aws-builders/security-as-the-foundation-of-digital-sovereignty-10cp)
-* [Confidence in the cloud with data sovereignty](https://dev.to/aws-builders/confidence-in-the-cloud-with-data-sovereignty-1p6a)
 <!--END_SECTION:feed-->
 
 
