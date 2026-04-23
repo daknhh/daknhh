@@ -1,8 +1,13 @@
-### 👋🏻 Hi there I am David - APN Ambassador / AWS Community Builder 
+👋 Hi, I’m David – Founder & CEO at Foundra | AWS Community Builder
 
-Cloud enthusiast, focusing on building solutions on AWS. As the cloud evolves every day, I continue to educate myself.
-I am a strong believer in continuing education and love to learn every day something new. My specialties are Cloud Automation, Infrastructure as Code, Continuous Delivery, Microservices and Cloud Security on 🧡 AWS. <br />
-I am currently working for <a href="https://globaldatanet.com" target="_blank" ><font color='#00ecbd'>globaldatanet</font></a>.
+I design secure, sovereign cloud architectures on AWS, with a focus on privacy, auditability, and real-world impact — especially in health.
+
+My work sits at the intersection of cloud security, automation, and digital health:
+→ Infrastructure as Code & platform engineering
+→ Continuous compliance & auto-remediation
+→ Privacy-by-design systems
+
+Currently building at [Foundra](https://foundra.de/en/) and developing privacy-first health technology like [MoodTrackMe](https://moodtrack.me/).
 								       
 <h3>💬  Get in touch with me</h3>
 <p align="left">
