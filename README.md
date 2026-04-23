@@ -3,9 +3,9 @@
 I design secure, sovereign cloud architectures on AWS, with a focus on privacy, auditability, and real-world impact — especially in health.
 
 My work sits at the intersection of cloud security, automation, and digital health:
-→ Infrastructure as Code & platform engineering
-→ Continuous compliance & auto-remediation
-→ Privacy-by-design systems
+</br>→ Infrastructure as Code & platform engineering
+</br>→ Continuous compliance & auto-remediation
+</br>→ Privacy-by-design systems
 
 Currently building at [Foundra](https://foundra.de/en/) and developing privacy-first health technology like [MoodTrackMe](https://moodtrack.me/).
 								       
